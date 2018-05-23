@@ -1,2 +1,2 @@
 # Odds
-    Just something intersting
+    Just something interesting
